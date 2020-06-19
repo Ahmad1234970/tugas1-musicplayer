@@ -1,0 +1,14 @@
+{
+    "name": "ahmad/mad",
+    "description": "sistem informasi music player",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "ahmad",
+            "email": "ahmadraynaldi@gmail.com"
+        }
+    ]
+}
